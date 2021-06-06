@@ -20,12 +20,11 @@ Want something mentioned in the next newsletter?
 [Send us a pull request][pr].
 Feel free to send PRs about your own projects!
 
-[Rust]: https://rust-lang.org
+[rust]: https://rust-lang.org
 [join]: https://github.com/rust-gamedev/wg#join-the-fun
 [pr]: https://github.com/rust-gamedev/rust-gamedev.github.io
 [coordination]: https://github.com/rust-gamedev/rust-gamedev.github.io/issues?q=label%3Acoordination
-
-[Rust]: https://rust-lang.org
+[rust]: https://rust-lang.org
 [join]: https://github.com/rust-gamedev/wg#join-the-fun
 
 - [Game Updates](#game-updates)
@@ -70,7 +69,7 @@ include:
 - Prepare to release a short demo next month for collecting feedback.
 
 [@im_oab]: https://twitter.com/im_oab
-[Tetra]: https://github.com/17cupsofcoffee/tetra
+[tetra]: https://github.com/17cupsofcoffee/tetra
 
 ### [Veloren][veloren]
 
@@ -120,7 +119,7 @@ facilities. We also moved the map import process, with over 100 supported maps,
 to the cloud from a single poor laptop. OpenStreetMap importing now handles
 multiple turn lanes, U-turns, and stop signs much better.
 
-[A/B Street]: https://github.com/a-b-street/abstreet
+[a/b street]: https://github.com/a-b-street/abstreet
 [@dabreegster]: https://twitter.com/CarlinoDustin
 
 ### [The Process]
@@ -148,7 +147,7 @@ _Discussions:
 [/r/rust_gamedev](https://www.reddit.com/r/rust_gamedev/comments/nbmfvz/better_logistics_in_the_process_made_with_godot/),
 [Twitter](https://twitter.com/PlayTheProcess/status/1391484080798281728)_
 
-[The Process]: https://twitter.com/PlayTheProcess/
+[the process]: https://twitter.com/PlayTheProcess/
 
 ### [pGLOWrpg][pglowrpg-github]
 
@@ -169,7 +168,7 @@ Recent updates include:
 
 _Discussions: [Twitter][pglowrpg-twitter]_
 
-[@Roal_Yr]: https://twitter.com/Roal_Yr
+[@roal_yr]: https://twitter.com/Roal_Yr
 [pglowrpg-twitter]: https://twitter.com/pglowrpg
 [pglowrpg-github]: https://github.com/roalyr/pglowrpg
 
@@ -215,6 +214,21 @@ and breaking blocks.
 [rustcraft]: https://github.com/dskart/rustcraft
 
 ## Learning Material Updates
+
+### [Video: 1 Year of Rust Game Development]
+
+[![1 year of rust gamedev thumbnail](1_year_of_rust_gamedev.png)][video: 1 year of rust game development]
+_Video thumbnail_
+
+[@tantan] published a [video] about
+the projects he made during his first year of learning Rust.
+He also talks about why he likes the rust programming language and community.
+
+_Discussions: [/r/rust_gamedev](https://www.reddit.com/r/rust_gamedev/comments/n4o197/)_
+
+[video: 1 year of rust game development]: https://youtu.be/ZltAssmicsM
+[@tantan]: https://twitter.com/TanTanDev
+[video]: https://www.youtube.com/watch?v=ZltAssmicsM
 
 ## Library & Tooling Updates
 
@@ -296,7 +310,7 @@ license has moral and ethical implications that you may or may not agree with,
 so please read it before making use of this project.
 
 In the last two months Bevy Retro has gained a few new features, the biggest of
-which being an integration with the [RAUI]  UI library ( also featured in this
+which being an integration with the [RAUI] UI library ( also featured in this
 newsletter ), allowing you to design fully-fledged user interface for Bevy Retro
 games. Additional features added were:
 
@@ -309,10 +323,10 @@ You can ask questions or give feedback for Bevy Retro
 [on GitHub](https://github.com/katharostech/bevy_retro/discussions).
 
 [bevy_retro]: https://github.com/katharostech/bevy_retro
-[Bevy]: https://bevyengine.org
+[bevy]: https://bevyengine.org
 [katharos_license]: https://github.com/katharostech/katharos-license
-[Luminance]: https://github.com/phaazon/luminance-rs
-[RAUI]: https://raui-labs.github.io/raui/
+[luminance]: https://github.com/phaazon/luminance-rs
+[raui]: https://raui-labs.github.io/raui/
 
 ### [Texture Generator]
 
@@ -327,8 +341,8 @@ For randomness the instance id (e.g. the 145th brick) and/or the tile id are has
 
 The [current release] focuses on furniture.
 
-[Texture Generator]: https://github.com/Orchaldir/texture_generator
-[Orchaldir]: https://github.com/Orchaldir
+[texture generator]: https://github.com/Orchaldir/texture_generator
+[orchaldir]: https://github.com/Orchaldir
 [current release]: https://github.com/Orchaldir/texture_generator/projects/8
 
 ### [bevy_asset_loader]
@@ -407,7 +421,7 @@ or [join the next meeting][join].
 <!-- Bonus section to make the newsletter more interesting
 and highlight events from the past. -->
 
-------
+---
 
 That's all news for today, thanks for reading!
 
